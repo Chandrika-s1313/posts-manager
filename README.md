@@ -71,7 +71,7 @@ App will run at: **http://localhost:3000**
 
 ## 🌐 Deployment
 The project is deployed on 
-- [Vercel](https://vercel.com/s-v-l-chandrika-devis-projects/posts-manager/EQTPRs6aGkBS4i3qDvXuoTb4QJC8)
+- [Vercel](https://posts-manager-rose.vercel.app/)
 
 ---
 
