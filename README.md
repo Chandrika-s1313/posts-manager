@@ -67,14 +67,11 @@ App will run at: **http://localhost:3000**
 
 ## 📸 Screenshots
 
-_Add screenshot here after running your app (Posts list & Add form)._
-
----
+![SCREENSHOT OF THE APP](<Screenshot 2025-08-26 170039.png>)
 
 ## 🌐 Deployment
-You can deploy this project on:
-- [Vercel](https://vercel.com)
-- [Netlify](https://www.netlify.com/)
+The project is deployed on 
+- [Vercel](https://vercel.com/s-v-l-chandrika-devis-projects/posts-manager/EQTPRs6aGkBS4i3qDvXuoTb4QJC8)
 
 ---
 
