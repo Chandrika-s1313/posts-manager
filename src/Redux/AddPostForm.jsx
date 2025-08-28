@@ -7,9 +7,9 @@ function AddPostForm(){
     const [title , setTitle] = useState("");
     const [body, setBody] = useState("");
 
-    const onSubmit = ()=>{
+    const onSubmit = (e)=>{
         e.preventDefault();
-        if(title & body){
+        if(title && body){
             dispath(addPostLocal({title,body}));
             setTitle("");
             setBody("");
@@ -23,7 +23,7 @@ function AddPostForm(){
                 <label htmlFor="postTitle">Title:</label>
                 <input
                     type="text"
-                    id="possible"
+                    id="postTitle"
                     value={title}
                     onChange={(e)=>setTitle(e.target.value)}
                 />
